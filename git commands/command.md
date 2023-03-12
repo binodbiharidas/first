@@ -40,3 +40,18 @@ One of the most popular VCS tool is Git.
 -> Graphical User Interfaces (GUI) can equally help beginners and the most advanced users.
 
 -> GitHub Desktop, Source Tree, GitKraken, SmartGit, GitCola and so on are the popular third-party GUI tools.
+
+## git workflow
+
+--> step one: creat a repository
+-> git init
+--> step two: make your changes
+-> Creation
+-> Editing
+-> Deletion
+-> Organization
+--> step three: Add the files
+-> git add
+--> step four: Commit the files to the repository
+-> git cimmit
+--> step five: Repeart step 2 to 4
